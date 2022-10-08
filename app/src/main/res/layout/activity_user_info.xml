@@ -152,6 +152,7 @@
                     android:textSize="13sp"
                     android:textStyle="bold"
                     android:textColor="@color/black"
+
                     />
 
                 <EditText
