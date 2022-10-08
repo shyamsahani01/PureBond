@@ -2,4 +2,11 @@
     <string name="app_name">PureBond</string>
     <string name="appName">PureBond</string>
     <string name="loginHeading1">Love for everyone\nFind Your Dream Partner</string>
+    <string name="uploadPic">Upload Pics</string>
+    <string name="name">Name</string>
+    <string name="fullName">Full Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="sexuality">Sexuality</string>
+    <string name="lookingFor">Looking For</string>
+    <string name="aboutMe">About Me</string>
 </resources>
